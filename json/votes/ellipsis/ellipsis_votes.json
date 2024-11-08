@@ -1,0 +1,3772 @@
+[
+    {
+        "Week": 121,
+        "Start Epoch Date GMT": "2024-08-01 00:00:00",
+        "End Epoch Date GMT": "2024-08-07 23:59:59",
+        "Total Votes": 415642232692,
+        "Pools Data": [
+            {
+                "Pool Name": "3EPS",
+                "LP Token Address": "0xaF4dE8E872131AE328Ce21D909C74705d3Aaf452",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "val3EPS",
+                "LP Token Address": "0x5b5bD8913D766D005859CE002533D4838B0Ebbb5",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aBNBb",
+                "LP Token Address": "0xf71A0bCC3Ef8a8c5a28fc1BC245e394A8ce124ec",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aETHb",
+                "LP Token Address": "0x3e33ec615eB41148785653c119835Bd224Fd2d1B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aMATICb",
+                "LP Token Address": "0x6937A9C8Af919ebf756d56E715F4c8b9F1df3184",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "UST+BUSD",
+                "LP Token Address": "0xD67625ad4104dA86c4D9CB054001E899B1b9061B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "bnbEPS",
+                "LP Token Address": "0x13fe09F5D9BDBD09D875B51ba2f1E3f4544896bC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "deusdc-3ep",
+                "LP Token Address": "0xEAaD1b47283aB31A7ae92Dc156c963584D35120D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2ngn",
+                "LP Token Address": "0x4084203AfBc9b20A3ECB9C80dc164a13C9A41eEb",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2brl",
+                "LP Token Address": "0x1B6E11c5DB9B15DE87714eA9934a6c52371CfEA9",
+                "Pool Votes": 42224000000,
+                "Share": 0.10158736692016787
+            },
+            {
+                "Pool Name": "dusd3eps",
+                "LP Token Address": "0xd6e049b3e8E19deC54834046e48C15AF9374467a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdnv3EPS",
+                "LP Token Address": "0x82c8ce39d0fF337C6867Cdf26609a1728f9f1B58",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdlv3EPS",
+                "LP Token Address": "0x5dF71B9CB8EA13Dec57b63EA558B135aE06ac859",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valdaiEPS",
+                "LP Token Address": "0x8087a94FFE6bcF08DC4b4EBB3d28B4Ed75a792aC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valbtcEPS",
+                "LP Token Address": "0xdC7f3E34C43f8700B0EB58890aDd03AA84F7B0e1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "ausd/v3EPS",
+                "LP Token Address": "0x5eE318b2AD8B45675Dc169C68A273CAf8fb26ee0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "czusdv3EPS",
+                "LP Token Address": "0x4A96801f76DdfC182290105AeEb3E4719ff9A380",
+                "Pool Votes": 5753994052,
+                "Share": 0.013843622229466359
+            },
+            {
+                "Pool Name": "nBUSDv3EPS",
+                "LP Token Address": "0x5A81b0C7a43a5A39031A9926483A055F6355fEdf",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthv3EPS",
+                "LP Token Address": "0x4CfAaBd5920021359BB22bB6924CCe708773b6AC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valtusdEPS",
+                "LP Token Address": "0xF6be0F52Be5e68DF4Ed3ea7cCD569C16024C250D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dEPX/EPX",
+                "LP Token Address": "0xb6b218352d082fa5C981B5adF61CBC068046f926",
+                "Pool Votes": 29486773838,
+                "Share": 0.070942679830734
+            },
+            {
+                "Pool Name": "mai eps",
+                "LP Token Address": "0x80D00D2c8d920a9253c3D65BA901250a55011b37",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdd/3eps",
+                "LP Token Address": "0xB7d9b83c7Dc3C7Fab2d0159f8b3fA7C4fB081741",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "tusd3eps",
+                "LP Token Address": "0xe9957dC7Ff1ca823A358ca16Fb5b66e853D46fA3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2epx",
+                "LP Token Address": "0xB343F4cDE5e2049857898E800CD385247e21836D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthu3eps",
+                "LP Token Address": "0xC5C71ACCCa3A1357985E8912e1ED0aa910C30BdC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "",
+                "LP Token Address": "0x73A7A74627f5A4fcD6d7EEF8E023865C4a84CfE8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BNB",
+                "LP Token Address": "0x597F4583f45e2cBd571C6D18D7c4428885184738",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsEPX-BNB",
+                "LP Token Address": "0xd30E73F326D07bA3198D1A811519720f45b2D36D",
+                "Pool Votes": 736079479,
+                "Share": 0.0017709448682166305
+            },
+            {
+                "Pool Name": "epsDEPX-BUSD",
+                "LP Token Address": "0x930891020402469d7bd32dF3401fdeD3B893ceF0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-DDD",
+                "LP Token Address": "0x2de6F61139cb8e429a165C9a0090F46f0b02E241",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BNBx+BNB",
+                "LP Token Address": "0x2E9a994C9a2F661AE685e8d08662dF00f862f4da",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsVALAS-BNB",
+                "LP Token Address": "0x6B46dFaC1E46f059cea6C0a2D7642d58e8BE71F8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3brl",
+                "LP Token Address": "0x27b5Fc5333246F63280dA8e3e533512EfA747c13",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-ARTH.bsc",
+                "LP Token Address": "0x4fc50CfA410F9d93739C65B0e0CF37E55283Eea9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBNBx-BNB",
+                "LP Token Address": "0x5c73804FeDd39f3388E03F4aa1fE06a1C0e60c8e",
+                "Pool Votes": 21682903686,
+                "Share": 0.05216722936349807
+            },
+            {
+                "Pool Name": "epsBUSD-jCHF",
+                "LP Token Address": "0x5887cEa5e2bb7dD36F0C06Da47A8Df918c289A29",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJRT-BNB",
+                "LP Token Address": "0x8D3d5eA9064C93432bf85e185077983A10BbAa8f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsETH-BNB",
+                "LP Token Address": "0xC35796CAe6df06F41361bcDab08F231d5Ca86d30",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BTCB",
+                "LP Token Address": "0x293602dADde49b55F558F4440061da9e8D3dce0F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-jBRL",
+                "LP Token Address": "0x85500e5621E82f84F33E0A28bc95FE78CEB9a200",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-EPX",
+                "LP Token Address": "0x849A16dA1c10B78F4f55340171b242ff759012C3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "paxosBUSD",
+                "LP Token Address": "0xc27e4288dDf51B7Eb1081aec27930226Efe1eA72",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsankrBNB-BNB",
+                "LP Token Address": "0x53B07f1075cAbF87dC1329e44872F8fd8d7d84C9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-INR",
+                "LP Token Address": "0x7E6098AA1Fa5cd4b7429cef412D33258F777a0A8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsAUDT-BNB",
+                "LP Token Address": "0xd51b929bEf5A07f3430eE0Fd66d3283D20C4a1E4",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-SD",
+                "LP Token Address": "0x299E6Eef3B902F44D17834CDc407c2e4Bc1Fb002",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BNBx",
+                "LP Token Address": "0xeF44Cc0ac230a926700e0e927e9Ee9aC0051C2eA",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-CRV",
+                "LP Token Address": "0xBA4f12a96688C86a972911681911A9e403952f70",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BANANA",
+                "LP Token Address": "0x1B764EB0A1eA5CA62DD70deFa7548A2EbC56cBf1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BIFI",
+                "LP Token Address": "0x3C29929b286155d521E82525866a067B4102d67f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BUSD-FEED",
+                "LP Token Address": "0x67E6b66EbCDB33380ba46D0B88d6dD3a3693FABd",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJARVIS-ETH",
+                "LP Token Address": "0xf5852A0DEDbaEc3384102bfCDeab014aBd19836c",
+                "Pool Votes": 140801554058,
+                "Share": 0.3387566108142265
+            },
+            {
+                "Pool Name": "epsDDD-ETH",
+                "LP Token Address": "0x867a110561284507783184bb93Fec2A84eD1d62F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsPSG-ETH",
+                "LP Token Address": "0x8E259c89C8BA58654DeFa7ff032ac2AE18D0941E",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-jCHF",
+                "LP Token Address": "0x7F89eAB6D2fD3f397552E48f1B02882191e866D2",
+                "Pool Votes": 45064908962,
+                "Share": 0.10842235321018036
+            },
+            {
+                "Pool Name": "epsUSDT-dEPX",
+                "LP Token Address": "0xD0B25bD298dADfB36D84C9a2F4E966D1e7358e4a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3STABLE",
+                "LP Token Address": "0x318AA2a0cb415675B991ec4A9484315dfa6B3886",
+                "Pool Votes": 123167333404,
+                "Share": 0.29633016983447324
+            },
+            {
+                "Pool Name": "epsUSDT-DDD",
+                "LP Token Address": "0x8dcCcd09efa3c29aEbf8334d48806Aefe887ECaC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-USDC-jCHF-120-vLP",
+                "LP Token Address": "0x60162AffA25Bcb3FFF55101ecE55553719341b65",
+                "Pool Votes": 6724685213,
+                "Share": 0.016179022929037
+            },
+            {
+                "Pool Name": "epsUSDT-PAYX",
+                "LP Token Address": "0x8df7458690e7057Cf91F9bBEc8EE07C52A445d7d",
+                "Pool Votes": 0,
+                "Share": 0.0
+            }
+        ]
+    },
+    {
+        "Week": 122,
+        "Start Epoch Date GMT": "2024-08-08 00:00:00",
+        "End Epoch Date GMT": "2024-08-14 23:59:59",
+        "Total Votes": 459003077743,
+        "Pools Data": [
+            {
+                "Pool Name": "3EPS",
+                "LP Token Address": "0xaF4dE8E872131AE328Ce21D909C74705d3Aaf452",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "val3EPS",
+                "LP Token Address": "0x5b5bD8913D766D005859CE002533D4838B0Ebbb5",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aBNBb",
+                "LP Token Address": "0xf71A0bCC3Ef8a8c5a28fc1BC245e394A8ce124ec",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aETHb",
+                "LP Token Address": "0x3e33ec615eB41148785653c119835Bd224Fd2d1B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aMATICb",
+                "LP Token Address": "0x6937A9C8Af919ebf756d56E715F4c8b9F1df3184",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "UST+BUSD",
+                "LP Token Address": "0xD67625ad4104dA86c4D9CB054001E899B1b9061B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "bnbEPS",
+                "LP Token Address": "0x13fe09F5D9BDBD09D875B51ba2f1E3f4544896bC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "deusdc-3ep",
+                "LP Token Address": "0xEAaD1b47283aB31A7ae92Dc156c963584D35120D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2ngn",
+                "LP Token Address": "0x4084203AfBc9b20A3ECB9C80dc164a13C9A41eEb",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2brl",
+                "LP Token Address": "0x1B6E11c5DB9B15DE87714eA9934a6c52371CfEA9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dusd3eps",
+                "LP Token Address": "0xd6e049b3e8E19deC54834046e48C15AF9374467a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdnv3EPS",
+                "LP Token Address": "0x82c8ce39d0fF337C6867Cdf26609a1728f9f1B58",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdlv3EPS",
+                "LP Token Address": "0x5dF71B9CB8EA13Dec57b63EA558B135aE06ac859",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valdaiEPS",
+                "LP Token Address": "0x8087a94FFE6bcF08DC4b4EBB3d28B4Ed75a792aC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valbtcEPS",
+                "LP Token Address": "0xdC7f3E34C43f8700B0EB58890aDd03AA84F7B0e1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "ausd/v3EPS",
+                "LP Token Address": "0x5eE318b2AD8B45675Dc169C68A273CAf8fb26ee0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "czusdv3EPS",
+                "LP Token Address": "0x4A96801f76DdfC182290105AeEb3E4719ff9A380",
+                "Pool Votes": 5575962588,
+                "Share": 0.012147985184365218
+            },
+            {
+                "Pool Name": "nBUSDv3EPS",
+                "LP Token Address": "0x5A81b0C7a43a5A39031A9926483A055F6355fEdf",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthv3EPS",
+                "LP Token Address": "0x4CfAaBd5920021359BB22bB6924CCe708773b6AC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valtusdEPS",
+                "LP Token Address": "0xF6be0F52Be5e68DF4Ed3ea7cCD569C16024C250D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dEPX/EPX",
+                "LP Token Address": "0xb6b218352d082fa5C981B5adF61CBC068046f926",
+                "Pool Votes": 79895366638,
+                "Share": 0.1740628124562035
+            },
+            {
+                "Pool Name": "mai eps",
+                "LP Token Address": "0x80D00D2c8d920a9253c3D65BA901250a55011b37",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdd/3eps",
+                "LP Token Address": "0xB7d9b83c7Dc3C7Fab2d0159f8b3fA7C4fB081741",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "tusd3eps",
+                "LP Token Address": "0xe9957dC7Ff1ca823A358ca16Fb5b66e853D46fA3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2epx",
+                "LP Token Address": "0xB343F4cDE5e2049857898E800CD385247e21836D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthu3eps",
+                "LP Token Address": "0xC5C71ACCCa3A1357985E8912e1ED0aa910C30BdC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "",
+                "LP Token Address": "0x73A7A74627f5A4fcD6d7EEF8E023865C4a84CfE8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BNB",
+                "LP Token Address": "0x597F4583f45e2cBd571C6D18D7c4428885184738",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsEPX-BNB",
+                "LP Token Address": "0xd30E73F326D07bA3198D1A811519720f45b2D36D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsDEPX-BUSD",
+                "LP Token Address": "0x930891020402469d7bd32dF3401fdeD3B893ceF0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-DDD",
+                "LP Token Address": "0x2de6F61139cb8e429a165C9a0090F46f0b02E241",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BNBx+BNB",
+                "LP Token Address": "0x2E9a994C9a2F661AE685e8d08662dF00f862f4da",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsVALAS-BNB",
+                "LP Token Address": "0x6B46dFaC1E46f059cea6C0a2D7642d58e8BE71F8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3brl",
+                "LP Token Address": "0x27b5Fc5333246F63280dA8e3e533512EfA747c13",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-ARTH.bsc",
+                "LP Token Address": "0x4fc50CfA410F9d93739C65B0e0CF37E55283Eea9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBNBx-BNB",
+                "LP Token Address": "0x5c73804FeDd39f3388E03F4aa1fE06a1C0e60c8e",
+                "Pool Votes": 20135096604,
+                "Share": 0.04386701872024009
+            },
+            {
+                "Pool Name": "epsBUSD-jCHF",
+                "LP Token Address": "0x5887cEa5e2bb7dD36F0C06Da47A8Df918c289A29",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJRT-BNB",
+                "LP Token Address": "0x8D3d5eA9064C93432bf85e185077983A10BbAa8f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsETH-BNB",
+                "LP Token Address": "0xC35796CAe6df06F41361bcDab08F231d5Ca86d30",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BTCB",
+                "LP Token Address": "0x293602dADde49b55F558F4440061da9e8D3dce0F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-jBRL",
+                "LP Token Address": "0x85500e5621E82f84F33E0A28bc95FE78CEB9a200",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-EPX",
+                "LP Token Address": "0x849A16dA1c10B78F4f55340171b242ff759012C3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "paxosBUSD",
+                "LP Token Address": "0xc27e4288dDf51B7Eb1081aec27930226Efe1eA72",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsankrBNB-BNB",
+                "LP Token Address": "0x53B07f1075cAbF87dC1329e44872F8fd8d7d84C9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-INR",
+                "LP Token Address": "0x7E6098AA1Fa5cd4b7429cef412D33258F777a0A8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsAUDT-BNB",
+                "LP Token Address": "0xd51b929bEf5A07f3430eE0Fd66d3283D20C4a1E4",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-SD",
+                "LP Token Address": "0x299E6Eef3B902F44D17834CDc407c2e4Bc1Fb002",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BNBx",
+                "LP Token Address": "0xeF44Cc0ac230a926700e0e927e9Ee9aC0051C2eA",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-CRV",
+                "LP Token Address": "0xBA4f12a96688C86a972911681911A9e403952f70",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BANANA",
+                "LP Token Address": "0x1B764EB0A1eA5CA62DD70deFa7548A2EbC56cBf1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BIFI",
+                "LP Token Address": "0x3C29929b286155d521E82525866a067B4102d67f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BUSD-FEED",
+                "LP Token Address": "0x67E6b66EbCDB33380ba46D0B88d6dD3a3693FABd",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJARVIS-ETH",
+                "LP Token Address": "0xf5852A0DEDbaEc3384102bfCDeab014aBd19836c",
+                "Pool Votes": 171920571396,
+                "Share": 0.3745521102851077
+            },
+            {
+                "Pool Name": "epsDDD-ETH",
+                "LP Token Address": "0x867a110561284507783184bb93Fec2A84eD1d62F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsPSG-ETH",
+                "LP Token Address": "0x8E259c89C8BA58654DeFa7ff032ac2AE18D0941E",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-jCHF",
+                "LP Token Address": "0x7F89eAB6D2fD3f397552E48f1B02882191e866D2",
+                "Pool Votes": 53694796092,
+                "Share": 0.11698134216447281
+            },
+            {
+                "Pool Name": "epsUSDT-dEPX",
+                "LP Token Address": "0xD0B25bD298dADfB36D84C9a2F4E966D1e7358e4a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3STABLE",
+                "LP Token Address": "0x318AA2a0cb415675B991ec4A9484315dfa6B3886",
+                "Pool Votes": 113453269997,
+                "Share": 0.24717322279159862
+            },
+            {
+                "Pool Name": "epsUSDT-DDD",
+                "LP Token Address": "0x8dcCcd09efa3c29aEbf8334d48806Aefe887ECaC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-USDC-jCHF-120-vLP",
+                "LP Token Address": "0x60162AffA25Bcb3FFF55101ecE55553719341b65",
+                "Pool Votes": 14328014428,
+                "Share": 0.031215508398012064
+            }
+        ]
+    },
+    {
+        "Week": 123,
+        "Start Epoch Date GMT": "2024-08-15 00:00:00",
+        "End Epoch Date GMT": "2024-08-21 23:59:59",
+        "Total Votes": 459887147313,
+        "Pools Data": [
+            {
+                "Pool Name": "3EPS",
+                "LP Token Address": "0xaF4dE8E872131AE328Ce21D909C74705d3Aaf452",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "val3EPS",
+                "LP Token Address": "0x5b5bD8913D766D005859CE002533D4838B0Ebbb5",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aBNBb",
+                "LP Token Address": "0xf71A0bCC3Ef8a8c5a28fc1BC245e394A8ce124ec",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aETHb",
+                "LP Token Address": "0x3e33ec615eB41148785653c119835Bd224Fd2d1B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aMATICb",
+                "LP Token Address": "0x6937A9C8Af919ebf756d56E715F4c8b9F1df3184",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "UST+BUSD",
+                "LP Token Address": "0xD67625ad4104dA86c4D9CB054001E899B1b9061B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "bnbEPS",
+                "LP Token Address": "0x13fe09F5D9BDBD09D875B51ba2f1E3f4544896bC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "deusdc-3ep",
+                "LP Token Address": "0xEAaD1b47283aB31A7ae92Dc156c963584D35120D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2ngn",
+                "LP Token Address": "0x4084203AfBc9b20A3ECB9C80dc164a13C9A41eEb",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2brl",
+                "LP Token Address": "0x1B6E11c5DB9B15DE87714eA9934a6c52371CfEA9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dusd3eps",
+                "LP Token Address": "0xd6e049b3e8E19deC54834046e48C15AF9374467a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdnv3EPS",
+                "LP Token Address": "0x82c8ce39d0fF337C6867Cdf26609a1728f9f1B58",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdlv3EPS",
+                "LP Token Address": "0x5dF71B9CB8EA13Dec57b63EA558B135aE06ac859",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valdaiEPS",
+                "LP Token Address": "0x8087a94FFE6bcF08DC4b4EBB3d28B4Ed75a792aC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valbtcEPS",
+                "LP Token Address": "0xdC7f3E34C43f8700B0EB58890aDd03AA84F7B0e1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "ausd/v3EPS",
+                "LP Token Address": "0x5eE318b2AD8B45675Dc169C68A273CAf8fb26ee0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "czusdv3EPS",
+                "LP Token Address": "0x4A96801f76DdfC182290105AeEb3E4719ff9A380",
+                "Pool Votes": 5535980464,
+                "Share": 0.012037693369656625
+            },
+            {
+                "Pool Name": "nBUSDv3EPS",
+                "LP Token Address": "0x5A81b0C7a43a5A39031A9926483A055F6355fEdf",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthv3EPS",
+                "LP Token Address": "0x4CfAaBd5920021359BB22bB6924CCe708773b6AC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valtusdEPS",
+                "LP Token Address": "0xF6be0F52Be5e68DF4Ed3ea7cCD569C16024C250D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dEPX/EPX",
+                "LP Token Address": "0xb6b218352d082fa5C981B5adF61CBC068046f926",
+                "Pool Votes": 88164198187,
+                "Share": 0.19170833258141762
+            },
+            {
+                "Pool Name": "mai eps",
+                "LP Token Address": "0x80D00D2c8d920a9253c3D65BA901250a55011b37",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdd/3eps",
+                "LP Token Address": "0xB7d9b83c7Dc3C7Fab2d0159f8b3fA7C4fB081741",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "tusd3eps",
+                "LP Token Address": "0xe9957dC7Ff1ca823A358ca16Fb5b66e853D46fA3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2epx",
+                "LP Token Address": "0xB343F4cDE5e2049857898E800CD385247e21836D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthu3eps",
+                "LP Token Address": "0xC5C71ACCCa3A1357985E8912e1ED0aa910C30BdC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "",
+                "LP Token Address": "0x73A7A74627f5A4fcD6d7EEF8E023865C4a84CfE8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BNB",
+                "LP Token Address": "0x597F4583f45e2cBd571C6D18D7c4428885184738",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsEPX-BNB",
+                "LP Token Address": "0xd30E73F326D07bA3198D1A811519720f45b2D36D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsDEPX-BUSD",
+                "LP Token Address": "0x930891020402469d7bd32dF3401fdeD3B893ceF0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-DDD",
+                "LP Token Address": "0x2de6F61139cb8e429a165C9a0090F46f0b02E241",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BNBx+BNB",
+                "LP Token Address": "0x2E9a994C9a2F661AE685e8d08662dF00f862f4da",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsVALAS-BNB",
+                "LP Token Address": "0x6B46dFaC1E46f059cea6C0a2D7642d58e8BE71F8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3brl",
+                "LP Token Address": "0x27b5Fc5333246F63280dA8e3e533512EfA747c13",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-ARTH.bsc",
+                "LP Token Address": "0x4fc50CfA410F9d93739C65B0e0CF37E55283Eea9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBNBx-BNB",
+                "LP Token Address": "0x5c73804FeDd39f3388E03F4aa1fE06a1C0e60c8e",
+                "Pool Votes": 30807082152,
+                "Share": 0.06698835210333166
+            },
+            {
+                "Pool Name": "epsBUSD-jCHF",
+                "LP Token Address": "0x5887cEa5e2bb7dD36F0C06Da47A8Df918c289A29",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJRT-BNB",
+                "LP Token Address": "0x8D3d5eA9064C93432bf85e185077983A10BbAa8f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsETH-BNB",
+                "LP Token Address": "0xC35796CAe6df06F41361bcDab08F231d5Ca86d30",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BTCB",
+                "LP Token Address": "0x293602dADde49b55F558F4440061da9e8D3dce0F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-jBRL",
+                "LP Token Address": "0x85500e5621E82f84F33E0A28bc95FE78CEB9a200",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-EPX",
+                "LP Token Address": "0x849A16dA1c10B78F4f55340171b242ff759012C3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "paxosBUSD",
+                "LP Token Address": "0xc27e4288dDf51B7Eb1081aec27930226Efe1eA72",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsankrBNB-BNB",
+                "LP Token Address": "0x53B07f1075cAbF87dC1329e44872F8fd8d7d84C9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-INR",
+                "LP Token Address": "0x7E6098AA1Fa5cd4b7429cef412D33258F777a0A8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsAUDT-BNB",
+                "LP Token Address": "0xd51b929bEf5A07f3430eE0Fd66d3283D20C4a1E4",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-SD",
+                "LP Token Address": "0x299E6Eef3B902F44D17834CDc407c2e4Bc1Fb002",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BNBx",
+                "LP Token Address": "0xeF44Cc0ac230a926700e0e927e9Ee9aC0051C2eA",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-CRV",
+                "LP Token Address": "0xBA4f12a96688C86a972911681911A9e403952f70",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BANANA",
+                "LP Token Address": "0x1B764EB0A1eA5CA62DD70deFa7548A2EbC56cBf1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BIFI",
+                "LP Token Address": "0x3C29929b286155d521E82525866a067B4102d67f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BUSD-FEED",
+                "LP Token Address": "0x67E6b66EbCDB33380ba46D0B88d6dD3a3693FABd",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJARVIS-ETH",
+                "LP Token Address": "0xf5852A0DEDbaEc3384102bfCDeab014aBd19836c",
+                "Pool Votes": 188886405960,
+                "Share": 0.4107233852122499
+            },
+            {
+                "Pool Name": "epsDDD-ETH",
+                "LP Token Address": "0x867a110561284507783184bb93Fec2A84eD1d62F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsPSG-ETH",
+                "LP Token Address": "0x8E259c89C8BA58654DeFa7ff032ac2AE18D0941E",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-jCHF",
+                "LP Token Address": "0x7F89eAB6D2fD3f397552E48f1B02882191e866D2",
+                "Pool Votes": 8330950600,
+                "Share": 0.018115206412433048
+            },
+            {
+                "Pool Name": "epsUSDT-dEPX",
+                "LP Token Address": "0xD0B25bD298dADfB36D84C9a2F4E966D1e7358e4a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3STABLE",
+                "LP Token Address": "0x318AA2a0cb415675B991ec4A9484315dfa6B3886",
+                "Pool Votes": 88708423626,
+                "Share": 0.19289172168498306
+            },
+            {
+                "Pool Name": "epsUSDT-DDD",
+                "LP Token Address": "0x8dcCcd09efa3c29aEbf8334d48806Aefe887ECaC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-USDC-jCHF-120-vLP",
+                "LP Token Address": "0x60162AffA25Bcb3FFF55101ecE55553719341b65",
+                "Pool Votes": 8330950600,
+                "Share": 0.018115206412433048
+            },
+            {
+                "Pool Name": "epsUSDT-PAYX",
+                "LP Token Address": "0x8df7458690e7057Cf91F9bBEc8EE07C52A445d7d",
+                "Pool Votes": 41123155724,
+                "Share": 0.08942010222349508
+            }
+        ]
+    },
+    {
+        "Week": 124,
+        "Start Epoch Date GMT": "2024-08-22 00:00:00",
+        "End Epoch Date GMT": "2024-08-28 23:59:59",
+        "Total Votes": 309660120492,
+        "Pools Data": [
+            {
+                "Pool Name": "3EPS",
+                "LP Token Address": "0xaF4dE8E872131AE328Ce21D909C74705d3Aaf452",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "val3EPS",
+                "LP Token Address": "0x5b5bD8913D766D005859CE002533D4838B0Ebbb5",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aBNBb",
+                "LP Token Address": "0xf71A0bCC3Ef8a8c5a28fc1BC245e394A8ce124ec",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aETHb",
+                "LP Token Address": "0x3e33ec615eB41148785653c119835Bd224Fd2d1B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aMATICb",
+                "LP Token Address": "0x6937A9C8Af919ebf756d56E715F4c8b9F1df3184",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "UST+BUSD",
+                "LP Token Address": "0xD67625ad4104dA86c4D9CB054001E899B1b9061B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "bnbEPS",
+                "LP Token Address": "0x13fe09F5D9BDBD09D875B51ba2f1E3f4544896bC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "deusdc-3ep",
+                "LP Token Address": "0xEAaD1b47283aB31A7ae92Dc156c963584D35120D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2ngn",
+                "LP Token Address": "0x4084203AfBc9b20A3ECB9C80dc164a13C9A41eEb",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2brl",
+                "LP Token Address": "0x1B6E11c5DB9B15DE87714eA9934a6c52371CfEA9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dusd3eps",
+                "LP Token Address": "0xd6e049b3e8E19deC54834046e48C15AF9374467a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdnv3EPS",
+                "LP Token Address": "0x82c8ce39d0fF337C6867Cdf26609a1728f9f1B58",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdlv3EPS",
+                "LP Token Address": "0x5dF71B9CB8EA13Dec57b63EA558B135aE06ac859",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valdaiEPS",
+                "LP Token Address": "0x8087a94FFE6bcF08DC4b4EBB3d28B4Ed75a792aC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valbtcEPS",
+                "LP Token Address": "0xdC7f3E34C43f8700B0EB58890aDd03AA84F7B0e1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "ausd/v3EPS",
+                "LP Token Address": "0x5eE318b2AD8B45675Dc169C68A273CAf8fb26ee0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "czusdv3EPS",
+                "LP Token Address": "0x4A96801f76DdfC182290105AeEb3E4719ff9A380",
+                "Pool Votes": 5535980464,
+                "Share": 0.017877602240818805
+            },
+            {
+                "Pool Name": "nBUSDv3EPS",
+                "LP Token Address": "0x5A81b0C7a43a5A39031A9926483A055F6355fEdf",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthv3EPS",
+                "LP Token Address": "0x4CfAaBd5920021359BB22bB6924CCe708773b6AC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valtusdEPS",
+                "LP Token Address": "0xF6be0F52Be5e68DF4Ed3ea7cCD569C16024C250D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dEPX/EPX",
+                "LP Token Address": "0xb6b218352d082fa5C981B5adF61CBC068046f926",
+                "Pool Votes": 27850915369,
+                "Share": 0.08994027169126391
+            },
+            {
+                "Pool Name": "mai eps",
+                "LP Token Address": "0x80D00D2c8d920a9253c3D65BA901250a55011b37",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdd/3eps",
+                "LP Token Address": "0xB7d9b83c7Dc3C7Fab2d0159f8b3fA7C4fB081741",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "tusd3eps",
+                "LP Token Address": "0xe9957dC7Ff1ca823A358ca16Fb5b66e853D46fA3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2epx",
+                "LP Token Address": "0xB343F4cDE5e2049857898E800CD385247e21836D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthu3eps",
+                "LP Token Address": "0xC5C71ACCCa3A1357985E8912e1ED0aa910C30BdC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "",
+                "LP Token Address": "0x73A7A74627f5A4fcD6d7EEF8E023865C4a84CfE8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BNB",
+                "LP Token Address": "0x597F4583f45e2cBd571C6D18D7c4428885184738",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsEPX-BNB",
+                "LP Token Address": "0xd30E73F326D07bA3198D1A811519720f45b2D36D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsDEPX-BUSD",
+                "LP Token Address": "0x930891020402469d7bd32dF3401fdeD3B893ceF0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-DDD",
+                "LP Token Address": "0x2de6F61139cb8e429a165C9a0090F46f0b02E241",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BNBx+BNB",
+                "LP Token Address": "0x2E9a994C9a2F661AE685e8d08662dF00f862f4da",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsVALAS-BNB",
+                "LP Token Address": "0x6B46dFaC1E46f059cea6C0a2D7642d58e8BE71F8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3brl",
+                "LP Token Address": "0x27b5Fc5333246F63280dA8e3e533512EfA747c13",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-ARTH.bsc",
+                "LP Token Address": "0x4fc50CfA410F9d93739C65B0e0CF37E55283Eea9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBNBx-BNB",
+                "LP Token Address": "0x5c73804FeDd39f3388E03F4aa1fE06a1C0e60c8e",
+                "Pool Votes": 56969237724,
+                "Share": 0.18397344040777697
+            },
+            {
+                "Pool Name": "epsBUSD-jCHF",
+                "LP Token Address": "0x5887cEa5e2bb7dD36F0C06Da47A8Df918c289A29",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJRT-BNB",
+                "LP Token Address": "0x8D3d5eA9064C93432bf85e185077983A10BbAa8f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsETH-BNB",
+                "LP Token Address": "0xC35796CAe6df06F41361bcDab08F231d5Ca86d30",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BTCB",
+                "LP Token Address": "0x293602dADde49b55F558F4440061da9e8D3dce0F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-jBRL",
+                "LP Token Address": "0x85500e5621E82f84F33E0A28bc95FE78CEB9a200",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-EPX",
+                "LP Token Address": "0x849A16dA1c10B78F4f55340171b242ff759012C3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "paxosBUSD",
+                "LP Token Address": "0xc27e4288dDf51B7Eb1081aec27930226Efe1eA72",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsankrBNB-BNB",
+                "LP Token Address": "0x53B07f1075cAbF87dC1329e44872F8fd8d7d84C9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-INR",
+                "LP Token Address": "0x7E6098AA1Fa5cd4b7429cef412D33258F777a0A8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsAUDT-BNB",
+                "LP Token Address": "0xd51b929bEf5A07f3430eE0Fd66d3283D20C4a1E4",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-SD",
+                "LP Token Address": "0x299E6Eef3B902F44D17834CDc407c2e4Bc1Fb002",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BNBx",
+                "LP Token Address": "0xeF44Cc0ac230a926700e0e927e9Ee9aC0051C2eA",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-CRV",
+                "LP Token Address": "0xBA4f12a96688C86a972911681911A9e403952f70",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BANANA",
+                "LP Token Address": "0x1B764EB0A1eA5CA62DD70deFa7548A2EbC56cBf1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BIFI",
+                "LP Token Address": "0x3C29929b286155d521E82525866a067B4102d67f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BUSD-FEED",
+                "LP Token Address": "0x67E6b66EbCDB33380ba46D0B88d6dD3a3693FABd",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJARVIS-ETH",
+                "LP Token Address": "0xf5852A0DEDbaEc3384102bfCDeab014aBd19836c",
+                "Pool Votes": 65926518237,
+                "Share": 0.21289960790641493
+            },
+            {
+                "Pool Name": "epsDDD-ETH",
+                "LP Token Address": "0x867a110561284507783184bb93Fec2A84eD1d62F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsPSG-ETH",
+                "LP Token Address": "0x8E259c89C8BA58654DeFa7ff032ac2AE18D0941E",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-jCHF",
+                "LP Token Address": "0x7F89eAB6D2fD3f397552E48f1B02882191e866D2",
+                "Pool Votes": 11332928796,
+                "Share": 0.0365979602991622
+            },
+            {
+                "Pool Name": "epsUSDT-dEPX",
+                "LP Token Address": "0xD0B25bD298dADfB36D84C9a2F4E966D1e7358e4a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3STABLE",
+                "LP Token Address": "0x318AA2a0cb415675B991ec4A9484315dfa6B3886",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-DDD",
+                "LP Token Address": "0x8dcCcd09efa3c29aEbf8334d48806Aefe887ECaC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-USDC-jCHF-120-vLP",
+                "LP Token Address": "0x60162AffA25Bcb3FFF55101ecE55553719341b65",
+                "Pool Votes": 8408358560,
+                "Share": 0.027153508003034017
+            },
+            {
+                "Pool Name": "epsUSDT-PAYX",
+                "LP Token Address": "0x8df7458690e7057Cf91F9bBEc8EE07C52A445d7d",
+                "Pool Votes": 133636181342,
+                "Share": 0.43155760945152916
+            }
+        ]
+    },
+    {
+        "Week": 125,
+        "Start Epoch Date GMT": "2024-08-29 00:00:00",
+        "End Epoch Date GMT": "2024-09-04 23:59:59",
+        "Total Votes": 432207454871,
+        "Pools Data": [
+            {
+                "Pool Name": "3EPS",
+                "LP Token Address": "0xaF4dE8E872131AE328Ce21D909C74705d3Aaf452",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "val3EPS",
+                "LP Token Address": "0x5b5bD8913D766D005859CE002533D4838B0Ebbb5",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aBNBb",
+                "LP Token Address": "0xf71A0bCC3Ef8a8c5a28fc1BC245e394A8ce124ec",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aETHb",
+                "LP Token Address": "0x3e33ec615eB41148785653c119835Bd224Fd2d1B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aMATICb",
+                "LP Token Address": "0x6937A9C8Af919ebf756d56E715F4c8b9F1df3184",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "UST+BUSD",
+                "LP Token Address": "0xD67625ad4104dA86c4D9CB054001E899B1b9061B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "bnbEPS",
+                "LP Token Address": "0x13fe09F5D9BDBD09D875B51ba2f1E3f4544896bC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "deusdc-3ep",
+                "LP Token Address": "0xEAaD1b47283aB31A7ae92Dc156c963584D35120D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2ngn",
+                "LP Token Address": "0x4084203AfBc9b20A3ECB9C80dc164a13C9A41eEb",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2brl",
+                "LP Token Address": "0x1B6E11c5DB9B15DE87714eA9934a6c52371CfEA9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dusd3eps",
+                "LP Token Address": "0xd6e049b3e8E19deC54834046e48C15AF9374467a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdnv3EPS",
+                "LP Token Address": "0x82c8ce39d0fF337C6867Cdf26609a1728f9f1B58",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdlv3EPS",
+                "LP Token Address": "0x5dF71B9CB8EA13Dec57b63EA558B135aE06ac859",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valdaiEPS",
+                "LP Token Address": "0x8087a94FFE6bcF08DC4b4EBB3d28B4Ed75a792aC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valbtcEPS",
+                "LP Token Address": "0xdC7f3E34C43f8700B0EB58890aDd03AA84F7B0e1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "ausd/v3EPS",
+                "LP Token Address": "0x5eE318b2AD8B45675Dc169C68A273CAf8fb26ee0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "czusdv3EPS",
+                "LP Token Address": "0x4A96801f76DdfC182290105AeEb3E4719ff9A380",
+                "Pool Votes": 5733694052,
+                "Share": 0.013266069308571559
+            },
+            {
+                "Pool Name": "nBUSDv3EPS",
+                "LP Token Address": "0x5A81b0C7a43a5A39031A9926483A055F6355fEdf",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthv3EPS",
+                "LP Token Address": "0x4CfAaBd5920021359BB22bB6924CCe708773b6AC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valtusdEPS",
+                "LP Token Address": "0xF6be0F52Be5e68DF4Ed3ea7cCD569C16024C250D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dEPX/EPX",
+                "LP Token Address": "0xb6b218352d082fa5C981B5adF61CBC068046f926",
+                "Pool Votes": 24812765535,
+                "Share": 0.057409388143029164
+            },
+            {
+                "Pool Name": "mai eps",
+                "LP Token Address": "0x80D00D2c8d920a9253c3D65BA901250a55011b37",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdd/3eps",
+                "LP Token Address": "0xB7d9b83c7Dc3C7Fab2d0159f8b3fA7C4fB081741",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "tusd3eps",
+                "LP Token Address": "0xe9957dC7Ff1ca823A358ca16Fb5b66e853D46fA3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2epx",
+                "LP Token Address": "0xB343F4cDE5e2049857898E800CD385247e21836D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthu3eps",
+                "LP Token Address": "0xC5C71ACCCa3A1357985E8912e1ED0aa910C30BdC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "",
+                "LP Token Address": "0x73A7A74627f5A4fcD6d7EEF8E023865C4a84CfE8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BNB",
+                "LP Token Address": "0x597F4583f45e2cBd571C6D18D7c4428885184738",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsEPX-BNB",
+                "LP Token Address": "0xd30E73F326D07bA3198D1A811519720f45b2D36D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsDEPX-BUSD",
+                "LP Token Address": "0x930891020402469d7bd32dF3401fdeD3B893ceF0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-DDD",
+                "LP Token Address": "0x2de6F61139cb8e429a165C9a0090F46f0b02E241",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BNBx+BNB",
+                "LP Token Address": "0x2E9a994C9a2F661AE685e8d08662dF00f862f4da",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsVALAS-BNB",
+                "LP Token Address": "0x6B46dFaC1E46f059cea6C0a2D7642d58e8BE71F8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3brl",
+                "LP Token Address": "0x27b5Fc5333246F63280dA8e3e533512EfA747c13",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-ARTH.bsc",
+                "LP Token Address": "0x4fc50CfA410F9d93739C65B0e0CF37E55283Eea9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBNBx-BNB",
+                "LP Token Address": "0x5c73804FeDd39f3388E03F4aa1fE06a1C0e60c8e",
+                "Pool Votes": 90191697544,
+                "Share": 0.2086768669247487
+            },
+            {
+                "Pool Name": "epsBUSD-jCHF",
+                "LP Token Address": "0x5887cEa5e2bb7dD36F0C06Da47A8Df918c289A29",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJRT-BNB",
+                "LP Token Address": "0x8D3d5eA9064C93432bf85e185077983A10BbAa8f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsETH-BNB",
+                "LP Token Address": "0xC35796CAe6df06F41361bcDab08F231d5Ca86d30",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BTCB",
+                "LP Token Address": "0x293602dADde49b55F558F4440061da9e8D3dce0F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-jBRL",
+                "LP Token Address": "0x85500e5621E82f84F33E0A28bc95FE78CEB9a200",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-EPX",
+                "LP Token Address": "0x849A16dA1c10B78F4f55340171b242ff759012C3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "paxosBUSD",
+                "LP Token Address": "0xc27e4288dDf51B7Eb1081aec27930226Efe1eA72",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsankrBNB-BNB",
+                "LP Token Address": "0x53B07f1075cAbF87dC1329e44872F8fd8d7d84C9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-INR",
+                "LP Token Address": "0x7E6098AA1Fa5cd4b7429cef412D33258F777a0A8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsAUDT-BNB",
+                "LP Token Address": "0xd51b929bEf5A07f3430eE0Fd66d3283D20C4a1E4",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-SD",
+                "LP Token Address": "0x299E6Eef3B902F44D17834CDc407c2e4Bc1Fb002",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BNBx",
+                "LP Token Address": "0xeF44Cc0ac230a926700e0e927e9Ee9aC0051C2eA",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-CRV",
+                "LP Token Address": "0xBA4f12a96688C86a972911681911A9e403952f70",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BANANA",
+                "LP Token Address": "0x1B764EB0A1eA5CA62DD70deFa7548A2EbC56cBf1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BIFI",
+                "LP Token Address": "0x3C29929b286155d521E82525866a067B4102d67f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BUSD-FEED",
+                "LP Token Address": "0x67E6b66EbCDB33380ba46D0B88d6dD3a3693FABd",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJARVIS-ETH",
+                "LP Token Address": "0xf5852A0DEDbaEc3384102bfCDeab014aBd19836c",
+                "Pool Votes": 634494857,
+                "Share": 0.0014680331166184448
+            },
+            {
+                "Pool Name": "epsDDD-ETH",
+                "LP Token Address": "0x867a110561284507783184bb93Fec2A84eD1d62F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsPSG-ETH",
+                "LP Token Address": "0x8E259c89C8BA58654DeFa7ff032ac2AE18D0941E",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-jCHF",
+                "LP Token Address": "0x7F89eAB6D2fD3f397552E48f1B02882191e866D2",
+                "Pool Votes": 8164365998,
+                "Share": 0.01888992405380143
+            },
+            {
+                "Pool Name": "epsUSDT-dEPX",
+                "LP Token Address": "0xD0B25bD298dADfB36D84C9a2F4E966D1e7358e4a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3STABLE",
+                "LP Token Address": "0x318AA2a0cb415675B991ec4A9484315dfa6B3886",
+                "Pool Votes": 122468384858,
+                "Share": 0.28335555872018187
+            },
+            {
+                "Pool Name": "epsUSDT-DDD",
+                "LP Token Address": "0x8dcCcd09efa3c29aEbf8334d48806Aefe887ECaC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-USDC-jCHF-120-vLP",
+                "LP Token Address": "0x60162AffA25Bcb3FFF55101ecE55553719341b65",
+                "Pool Votes": 8164366027,
+                "Share": 0.018889924120898842
+            },
+            {
+                "Pool Name": "epsUSDT-PAYX",
+                "LP Token Address": "0x8df7458690e7057Cf91F9bBEc8EE07C52A445d7d",
+                "Pool Votes": 172037686000,
+                "Share": 0.39804423561214997
+            },
+            {
+                "Pool Name": "eAUD-USBT",
+                "LP Token Address": "0xCc548d0242c461D112e0733C389ba741EF523522",
+                "Pool Votes": 0,
+                "Share": 0.0
+            }
+        ]
+    },
+    {
+        "Week": 126,
+        "Start Epoch Date GMT": "2024-09-05 00:00:00",
+        "End Epoch Date GMT": "2024-09-11 23:59:59",
+        "Total Votes": 423665441985,
+        "Pools Data": [
+            {
+                "Pool Name": "3EPS",
+                "LP Token Address": "0xaF4dE8E872131AE328Ce21D909C74705d3Aaf452",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "val3EPS",
+                "LP Token Address": "0x5b5bD8913D766D005859CE002533D4838B0Ebbb5",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aBNBb",
+                "LP Token Address": "0xf71A0bCC3Ef8a8c5a28fc1BC245e394A8ce124ec",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aETHb",
+                "LP Token Address": "0x3e33ec615eB41148785653c119835Bd224Fd2d1B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aMATICb",
+                "LP Token Address": "0x6937A9C8Af919ebf756d56E715F4c8b9F1df3184",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "UST+BUSD",
+                "LP Token Address": "0xD67625ad4104dA86c4D9CB054001E899B1b9061B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "bnbEPS",
+                "LP Token Address": "0x13fe09F5D9BDBD09D875B51ba2f1E3f4544896bC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "deusdc-3ep",
+                "LP Token Address": "0xEAaD1b47283aB31A7ae92Dc156c963584D35120D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2ngn",
+                "LP Token Address": "0x4084203AfBc9b20A3ECB9C80dc164a13C9A41eEb",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2brl",
+                "LP Token Address": "0x1B6E11c5DB9B15DE87714eA9934a6c52371CfEA9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dusd3eps",
+                "LP Token Address": "0xd6e049b3e8E19deC54834046e48C15AF9374467a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdnv3EPS",
+                "LP Token Address": "0x82c8ce39d0fF337C6867Cdf26609a1728f9f1B58",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdlv3EPS",
+                "LP Token Address": "0x5dF71B9CB8EA13Dec57b63EA558B135aE06ac859",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valdaiEPS",
+                "LP Token Address": "0x8087a94FFE6bcF08DC4b4EBB3d28B4Ed75a792aC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valbtcEPS",
+                "LP Token Address": "0xdC7f3E34C43f8700B0EB58890aDd03AA84F7B0e1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "ausd/v3EPS",
+                "LP Token Address": "0x5eE318b2AD8B45675Dc169C68A273CAf8fb26ee0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "czusdv3EPS",
+                "LP Token Address": "0x4A96801f76DdfC182290105AeEb3E4719ff9A380",
+                "Pool Votes": 5931407640,
+                "Share": 0.014000215859498882
+            },
+            {
+                "Pool Name": "nBUSDv3EPS",
+                "LP Token Address": "0x5A81b0C7a43a5A39031A9926483A055F6355fEdf",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthv3EPS",
+                "LP Token Address": "0x4CfAaBd5920021359BB22bB6924CCe708773b6AC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valtusdEPS",
+                "LP Token Address": "0xF6be0F52Be5e68DF4Ed3ea7cCD569C16024C250D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dEPX/EPX",
+                "LP Token Address": "0xb6b218352d082fa5C981B5adF61CBC068046f926",
+                "Pool Votes": 24473528626,
+                "Share": 0.057766166887094114
+            },
+            {
+                "Pool Name": "mai eps",
+                "LP Token Address": "0x80D00D2c8d920a9253c3D65BA901250a55011b37",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdd/3eps",
+                "LP Token Address": "0xB7d9b83c7Dc3C7Fab2d0159f8b3fA7C4fB081741",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "tusd3eps",
+                "LP Token Address": "0xe9957dC7Ff1ca823A358ca16Fb5b66e853D46fA3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2epx",
+                "LP Token Address": "0xB343F4cDE5e2049857898E800CD385247e21836D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthu3eps",
+                "LP Token Address": "0xC5C71ACCCa3A1357985E8912e1ED0aa910C30BdC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "",
+                "LP Token Address": "0x73A7A74627f5A4fcD6d7EEF8E023865C4a84CfE8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BNB",
+                "LP Token Address": "0x597F4583f45e2cBd571C6D18D7c4428885184738",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsEPX-BNB",
+                "LP Token Address": "0xd30E73F326D07bA3198D1A811519720f45b2D36D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsDEPX-BUSD",
+                "LP Token Address": "0x930891020402469d7bd32dF3401fdeD3B893ceF0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-DDD",
+                "LP Token Address": "0x2de6F61139cb8e429a165C9a0090F46f0b02E241",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BNBx+BNB",
+                "LP Token Address": "0x2E9a994C9a2F661AE685e8d08662dF00f862f4da",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsVALAS-BNB",
+                "LP Token Address": "0x6B46dFaC1E46f059cea6C0a2D7642d58e8BE71F8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3brl",
+                "LP Token Address": "0x27b5Fc5333246F63280dA8e3e533512EfA747c13",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-ARTH.bsc",
+                "LP Token Address": "0x4fc50CfA410F9d93739C65B0e0CF37E55283Eea9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBNBx-BNB",
+                "LP Token Address": "0x5c73804FeDd39f3388E03F4aa1fE06a1C0e60c8e",
+                "Pool Votes": 27776606490,
+                "Share": 0.0655625966561215
+            },
+            {
+                "Pool Name": "epsBUSD-jCHF",
+                "LP Token Address": "0x5887cEa5e2bb7dD36F0C06Da47A8Df918c289A29",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJRT-BNB",
+                "LP Token Address": "0x8D3d5eA9064C93432bf85e185077983A10BbAa8f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsETH-BNB",
+                "LP Token Address": "0xC35796CAe6df06F41361bcDab08F231d5Ca86d30",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BTCB",
+                "LP Token Address": "0x293602dADde49b55F558F4440061da9e8D3dce0F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-jBRL",
+                "LP Token Address": "0x85500e5621E82f84F33E0A28bc95FE78CEB9a200",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-EPX",
+                "LP Token Address": "0x849A16dA1c10B78F4f55340171b242ff759012C3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "paxosBUSD",
+                "LP Token Address": "0xc27e4288dDf51B7Eb1081aec27930226Efe1eA72",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsankrBNB-BNB",
+                "LP Token Address": "0x53B07f1075cAbF87dC1329e44872F8fd8d7d84C9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-INR",
+                "LP Token Address": "0x7E6098AA1Fa5cd4b7429cef412D33258F777a0A8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsAUDT-BNB",
+                "LP Token Address": "0xd51b929bEf5A07f3430eE0Fd66d3283D20C4a1E4",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-SD",
+                "LP Token Address": "0x299E6Eef3B902F44D17834CDc407c2e4Bc1Fb002",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BNBx",
+                "LP Token Address": "0xeF44Cc0ac230a926700e0e927e9Ee9aC0051C2eA",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-CRV",
+                "LP Token Address": "0xBA4f12a96688C86a972911681911A9e403952f70",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BANANA",
+                "LP Token Address": "0x1B764EB0A1eA5CA62DD70deFa7548A2EbC56cBf1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BIFI",
+                "LP Token Address": "0x3C29929b286155d521E82525866a067B4102d67f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BUSD-FEED",
+                "LP Token Address": "0x67E6b66EbCDB33380ba46D0B88d6dD3a3693FABd",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJARVIS-ETH",
+                "LP Token Address": "0xf5852A0DEDbaEc3384102bfCDeab014aBd19836c",
+                "Pool Votes": 714611070,
+                "Share": 0.0016867343879921673
+            },
+            {
+                "Pool Name": "epsDDD-ETH",
+                "LP Token Address": "0x867a110561284507783184bb93Fec2A84eD1d62F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsPSG-ETH",
+                "LP Token Address": "0x8E259c89C8BA58654DeFa7ff032ac2AE18D0941E",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-jCHF",
+                "LP Token Address": "0x7F89eAB6D2fD3f397552E48f1B02882191e866D2",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-dEPX",
+                "LP Token Address": "0xD0B25bD298dADfB36D84C9a2F4E966D1e7358e4a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3STABLE",
+                "LP Token Address": "0x318AA2a0cb415675B991ec4A9484315dfa6B3886",
+                "Pool Votes": 191244145949,
+                "Share": 0.45140369498386196
+            },
+            {
+                "Pool Name": "epsUSDT-DDD",
+                "LP Token Address": "0x8dcCcd09efa3c29aEbf8334d48806Aefe887ECaC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-USDC-jCHF-120-vLP",
+                "LP Token Address": "0x60162AffA25Bcb3FFF55101ecE55553719341b65",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-PAYX",
+                "LP Token Address": "0x8df7458690e7057Cf91F9bBEc8EE07C52A445d7d",
+                "Pool Votes": 173525142210,
+                "Share": 0.4095805912254314
+            },
+            {
+                "Pool Name": "eAUD-USBT",
+                "LP Token Address": "0xCc548d0242c461D112e0733C389ba741EF523522",
+                "Pool Votes": 0,
+                "Share": 0.0
+            }
+        ]
+    },
+    {
+        "Week": 127,
+        "Start Epoch Date GMT": "2024-09-12 00:00:00",
+        "End Epoch Date GMT": "2024-09-18 23:59:59",
+        "Total Votes": 422421275489,
+        "Pools Data": [
+            {
+                "Pool Name": "3EPS",
+                "LP Token Address": "0xaF4dE8E872131AE328Ce21D909C74705d3Aaf452",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "val3EPS",
+                "LP Token Address": "0x5b5bD8913D766D005859CE002533D4838B0Ebbb5",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aBNBb",
+                "LP Token Address": "0xf71A0bCC3Ef8a8c5a28fc1BC245e394A8ce124ec",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aETHb",
+                "LP Token Address": "0x3e33ec615eB41148785653c119835Bd224Fd2d1B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aMATICb",
+                "LP Token Address": "0x6937A9C8Af919ebf756d56E715F4c8b9F1df3184",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "UST+BUSD",
+                "LP Token Address": "0xD67625ad4104dA86c4D9CB054001E899B1b9061B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "bnbEPS",
+                "LP Token Address": "0x13fe09F5D9BDBD09D875B51ba2f1E3f4544896bC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "deusdc-3ep",
+                "LP Token Address": "0xEAaD1b47283aB31A7ae92Dc156c963584D35120D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2ngn",
+                "LP Token Address": "0x4084203AfBc9b20A3ECB9C80dc164a13C9A41eEb",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2brl",
+                "LP Token Address": "0x1B6E11c5DB9B15DE87714eA9934a6c52371CfEA9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dusd3eps",
+                "LP Token Address": "0xd6e049b3e8E19deC54834046e48C15AF9374467a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdnv3EPS",
+                "LP Token Address": "0x82c8ce39d0fF337C6867Cdf26609a1728f9f1B58",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdlv3EPS",
+                "LP Token Address": "0x5dF71B9CB8EA13Dec57b63EA558B135aE06ac859",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valdaiEPS",
+                "LP Token Address": "0x8087a94FFE6bcF08DC4b4EBB3d28B4Ed75a792aC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valbtcEPS",
+                "LP Token Address": "0xdC7f3E34C43f8700B0EB58890aDd03AA84F7B0e1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "ausd/v3EPS",
+                "LP Token Address": "0x5eE318b2AD8B45675Dc169C68A273CAf8fb26ee0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "czusdv3EPS",
+                "LP Token Address": "0x4A96801f76DdfC182290105AeEb3E4719ff9A380",
+                "Pool Votes": 6129121228,
+                "Share": 0.014509499363887046
+            },
+            {
+                "Pool Name": "nBUSDv3EPS",
+                "LP Token Address": "0x5A81b0C7a43a5A39031A9926483A055F6355fEdf",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthv3EPS",
+                "LP Token Address": "0x4CfAaBd5920021359BB22bB6924CCe708773b6AC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valtusdEPS",
+                "LP Token Address": "0xF6be0F52Be5e68DF4Ed3ea7cCD569C16024C250D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dEPX/EPX",
+                "LP Token Address": "0xb6b218352d082fa5C981B5adF61CBC068046f926",
+                "Pool Votes": 24712617050,
+                "Share": 0.05850230204762384
+            },
+            {
+                "Pool Name": "mai eps",
+                "LP Token Address": "0x80D00D2c8d920a9253c3D65BA901250a55011b37",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdd/3eps",
+                "LP Token Address": "0xB7d9b83c7Dc3C7Fab2d0159f8b3fA7C4fB081741",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "tusd3eps",
+                "LP Token Address": "0xe9957dC7Ff1ca823A358ca16Fb5b66e853D46fA3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2epx",
+                "LP Token Address": "0xB343F4cDE5e2049857898E800CD385247e21836D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthu3eps",
+                "LP Token Address": "0xC5C71ACCCa3A1357985E8912e1ED0aa910C30BdC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "",
+                "LP Token Address": "0x73A7A74627f5A4fcD6d7EEF8E023865C4a84CfE8",
+                "Pool Votes": 797081,
+                "Share": 1.886933841287443e-06
+            },
+            {
+                "Pool Name": "epsBUSD-BNB",
+                "LP Token Address": "0x597F4583f45e2cBd571C6D18D7c4428885184738",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsEPX-BNB",
+                "LP Token Address": "0xd30E73F326D07bA3198D1A811519720f45b2D36D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsDEPX-BUSD",
+                "LP Token Address": "0x930891020402469d7bd32dF3401fdeD3B893ceF0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-DDD",
+                "LP Token Address": "0x2de6F61139cb8e429a165C9a0090F46f0b02E241",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BNBx+BNB",
+                "LP Token Address": "0x2E9a994C9a2F661AE685e8d08662dF00f862f4da",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsVALAS-BNB",
+                "LP Token Address": "0x6B46dFaC1E46f059cea6C0a2D7642d58e8BE71F8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3brl",
+                "LP Token Address": "0x27b5Fc5333246F63280dA8e3e533512EfA747c13",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-ARTH.bsc",
+                "LP Token Address": "0x4fc50CfA410F9d93739C65B0e0CF37E55283Eea9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBNBx-BNB",
+                "LP Token Address": "0x5c73804FeDd39f3388E03F4aa1fE06a1C0e60c8e",
+                "Pool Votes": 46058981693,
+                "Share": 0.10903565792154186
+            },
+            {
+                "Pool Name": "epsBUSD-jCHF",
+                "LP Token Address": "0x5887cEa5e2bb7dD36F0C06Da47A8Df918c289A29",
+                "Pool Votes": 7563768988,
+                "Share": 0.01790574818762168
+            },
+            {
+                "Pool Name": "epsJRT-BNB",
+                "LP Token Address": "0x8D3d5eA9064C93432bf85e185077983A10BbAa8f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsETH-BNB",
+                "LP Token Address": "0xC35796CAe6df06F41361bcDab08F231d5Ca86d30",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BTCB",
+                "LP Token Address": "0x293602dADde49b55F558F4440061da9e8D3dce0F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-jBRL",
+                "LP Token Address": "0x85500e5621E82f84F33E0A28bc95FE78CEB9a200",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-EPX",
+                "LP Token Address": "0x849A16dA1c10B78F4f55340171b242ff759012C3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "paxosBUSD",
+                "LP Token Address": "0xc27e4288dDf51B7Eb1081aec27930226Efe1eA72",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsankrBNB-BNB",
+                "LP Token Address": "0x53B07f1075cAbF87dC1329e44872F8fd8d7d84C9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-INR",
+                "LP Token Address": "0x7E6098AA1Fa5cd4b7429cef412D33258F777a0A8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsAUDT-BNB",
+                "LP Token Address": "0xd51b929bEf5A07f3430eE0Fd66d3283D20C4a1E4",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-SD",
+                "LP Token Address": "0x299E6Eef3B902F44D17834CDc407c2e4Bc1Fb002",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BNBx",
+                "LP Token Address": "0xeF44Cc0ac230a926700e0e927e9Ee9aC0051C2eA",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-CRV",
+                "LP Token Address": "0xBA4f12a96688C86a972911681911A9e403952f70",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BANANA",
+                "LP Token Address": "0x1B764EB0A1eA5CA62DD70deFa7548A2EbC56cBf1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BIFI",
+                "LP Token Address": "0x3C29929b286155d521E82525866a067B4102d67f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BUSD-FEED",
+                "LP Token Address": "0x67E6b66EbCDB33380ba46D0B88d6dD3a3693FABd",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJARVIS-ETH",
+                "LP Token Address": "0xf5852A0DEDbaEc3384102bfCDeab014aBd19836c",
+                "Pool Votes": 656381591,
+                "Share": 0.0015538554260558128
+            },
+            {
+                "Pool Name": "epsDDD-ETH",
+                "LP Token Address": "0x867a110561284507783184bb93Fec2A84eD1d62F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsPSG-ETH",
+                "LP Token Address": "0x8E259c89C8BA58654DeFa7ff032ac2AE18D0941E",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-jCHF",
+                "LP Token Address": "0x7F89eAB6D2fD3f397552E48f1B02882191e866D2",
+                "Pool Votes": 7563768957,
+                "Share": 0.017905748114235225
+            },
+            {
+                "Pool Name": "epsUSDT-dEPX",
+                "LP Token Address": "0xD0B25bD298dADfB36D84C9a2F4E966D1e7358e4a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3STABLE",
+                "LP Token Address": "0x318AA2a0cb415675B991ec4A9484315dfa6B3886",
+                "Pool Votes": 169958587001,
+                "Share": 0.40234381377749945
+            },
+            {
+                "Pool Name": "epsUSDT-DDD",
+                "LP Token Address": "0x8dcCcd09efa3c29aEbf8334d48806Aefe887ECaC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-USDC-jCHF-120-vLP",
+                "LP Token Address": "0x60162AffA25Bcb3FFF55101ecE55553719341b65",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-PAYX",
+                "LP Token Address": "0x8df7458690e7057Cf91F9bBEc8EE07C52A445d7d",
+                "Pool Votes": 159777251900,
+                "Share": 0.3782414882276938
+            },
+            {
+                "Pool Name": "eAUD-USBT",
+                "LP Token Address": "0xCc548d0242c461D112e0733C389ba741EF523522",
+                "Pool Votes": 0,
+                "Share": 0.0
+            }
+        ]
+    },
+    {
+        "Week": 128,
+        "Start Epoch Date GMT": "2024-09-19 00:00:00",
+        "End Epoch Date GMT": "2024-09-25 23:59:59",
+        "Total Votes": 457203555274,
+        "Pools Data": [
+            {
+                "Pool Name": "3EPS",
+                "LP Token Address": "0xaF4dE8E872131AE328Ce21D909C74705d3Aaf452",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "val3EPS",
+                "LP Token Address": "0x5b5bD8913D766D005859CE002533D4838B0Ebbb5",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aBNBb",
+                "LP Token Address": "0xf71A0bCC3Ef8a8c5a28fc1BC245e394A8ce124ec",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aETHb",
+                "LP Token Address": "0x3e33ec615eB41148785653c119835Bd224Fd2d1B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aMATICb",
+                "LP Token Address": "0x6937A9C8Af919ebf756d56E715F4c8b9F1df3184",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "UST+BUSD",
+                "LP Token Address": "0xD67625ad4104dA86c4D9CB054001E899B1b9061B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "bnbEPS",
+                "LP Token Address": "0x13fe09F5D9BDBD09D875B51ba2f1E3f4544896bC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "deusdc-3ep",
+                "LP Token Address": "0xEAaD1b47283aB31A7ae92Dc156c963584D35120D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2ngn",
+                "LP Token Address": "0x4084203AfBc9b20A3ECB9C80dc164a13C9A41eEb",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2brl",
+                "LP Token Address": "0x1B6E11c5DB9B15DE87714eA9934a6c52371CfEA9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dusd3eps",
+                "LP Token Address": "0xd6e049b3e8E19deC54834046e48C15AF9374467a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdnv3EPS",
+                "LP Token Address": "0x82c8ce39d0fF337C6867Cdf26609a1728f9f1B58",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdlv3EPS",
+                "LP Token Address": "0x5dF71B9CB8EA13Dec57b63EA558B135aE06ac859",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valdaiEPS",
+                "LP Token Address": "0x8087a94FFE6bcF08DC4b4EBB3d28B4Ed75a792aC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valbtcEPS",
+                "LP Token Address": "0xdC7f3E34C43f8700B0EB58890aDd03AA84F7B0e1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "ausd/v3EPS",
+                "LP Token Address": "0x5eE318b2AD8B45675Dc169C68A273CAf8fb26ee0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "czusdv3EPS",
+                "LP Token Address": "0x4A96801f76DdfC182290105AeEb3E4719ff9A380",
+                "Pool Votes": 6326834816,
+                "Share": 0.013838113774527315
+            },
+            {
+                "Pool Name": "nBUSDv3EPS",
+                "LP Token Address": "0x5A81b0C7a43a5A39031A9926483A055F6355fEdf",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthv3EPS",
+                "LP Token Address": "0x4CfAaBd5920021359BB22bB6924CCe708773b6AC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valtusdEPS",
+                "LP Token Address": "0xF6be0F52Be5e68DF4Ed3ea7cCD569C16024C250D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dEPX/EPX",
+                "LP Token Address": "0xb6b218352d082fa5C981B5adF61CBC068046f926",
+                "Pool Votes": 24730316117,
+                "Share": 0.05409038453819379
+            },
+            {
+                "Pool Name": "mai eps",
+                "LP Token Address": "0x80D00D2c8d920a9253c3D65BA901250a55011b37",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdd/3eps",
+                "LP Token Address": "0xB7d9b83c7Dc3C7Fab2d0159f8b3fA7C4fB081741",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "tusd3eps",
+                "LP Token Address": "0xe9957dC7Ff1ca823A358ca16Fb5b66e853D46fA3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2epx",
+                "LP Token Address": "0xB343F4cDE5e2049857898E800CD385247e21836D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthu3eps",
+                "LP Token Address": "0xC5C71ACCCa3A1357985E8912e1ED0aa910C30BdC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "",
+                "LP Token Address": "0x73A7A74627f5A4fcD6d7EEF8E023865C4a84CfE8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BNB",
+                "LP Token Address": "0x597F4583f45e2cBd571C6D18D7c4428885184738",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsEPX-BNB",
+                "LP Token Address": "0xd30E73F326D07bA3198D1A811519720f45b2D36D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsDEPX-BUSD",
+                "LP Token Address": "0x930891020402469d7bd32dF3401fdeD3B893ceF0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-DDD",
+                "LP Token Address": "0x2de6F61139cb8e429a165C9a0090F46f0b02E241",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BNBx+BNB",
+                "LP Token Address": "0x2E9a994C9a2F661AE685e8d08662dF00f862f4da",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsVALAS-BNB",
+                "LP Token Address": "0x6B46dFaC1E46f059cea6C0a2D7642d58e8BE71F8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3brl",
+                "LP Token Address": "0x27b5Fc5333246F63280dA8e3e533512EfA747c13",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-ARTH.bsc",
+                "LP Token Address": "0x4fc50CfA410F9d93739C65B0e0CF37E55283Eea9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBNBx-BNB",
+                "LP Token Address": "0x5c73804FeDd39f3388E03F4aa1fE06a1C0e60c8e",
+                "Pool Votes": 42625983392,
+                "Share": 0.09323195959500893
+            },
+            {
+                "Pool Name": "epsBUSD-jCHF",
+                "LP Token Address": "0x5887cEa5e2bb7dD36F0C06Da47A8Df918c289A29",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJRT-BNB",
+                "LP Token Address": "0x8D3d5eA9064C93432bf85e185077983A10BbAa8f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsETH-BNB",
+                "LP Token Address": "0xC35796CAe6df06F41361bcDab08F231d5Ca86d30",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BTCB",
+                "LP Token Address": "0x293602dADde49b55F558F4440061da9e8D3dce0F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-jBRL",
+                "LP Token Address": "0x85500e5621E82f84F33E0A28bc95FE78CEB9a200",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-EPX",
+                "LP Token Address": "0x849A16dA1c10B78F4f55340171b242ff759012C3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "paxosBUSD",
+                "LP Token Address": "0xc27e4288dDf51B7Eb1081aec27930226Efe1eA72",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsankrBNB-BNB",
+                "LP Token Address": "0x53B07f1075cAbF87dC1329e44872F8fd8d7d84C9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-INR",
+                "LP Token Address": "0x7E6098AA1Fa5cd4b7429cef412D33258F777a0A8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsAUDT-BNB",
+                "LP Token Address": "0xd51b929bEf5A07f3430eE0Fd66d3283D20C4a1E4",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-SD",
+                "LP Token Address": "0x299E6Eef3B902F44D17834CDc407c2e4Bc1Fb002",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BNBx",
+                "LP Token Address": "0xeF44Cc0ac230a926700e0e927e9Ee9aC0051C2eA",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-CRV",
+                "LP Token Address": "0xBA4f12a96688C86a972911681911A9e403952f70",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BANANA",
+                "LP Token Address": "0x1B764EB0A1eA5CA62DD70deFa7548A2EbC56cBf1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BIFI",
+                "LP Token Address": "0x3C29929b286155d521E82525866a067B4102d67f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BUSD-FEED",
+                "LP Token Address": "0x67E6b66EbCDB33380ba46D0B88d6dD3a3693FABd",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJARVIS-ETH",
+                "LP Token Address": "0xf5852A0DEDbaEc3384102bfCDeab014aBd19836c",
+                "Pool Votes": 598546912,
+                "Share": 0.0013091475451044855
+            },
+            {
+                "Pool Name": "epsDDD-ETH",
+                "LP Token Address": "0x867a110561284507783184bb93Fec2A84eD1d62F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsPSG-ETH",
+                "LP Token Address": "0x8E259c89C8BA58654DeFa7ff032ac2AE18D0941E",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-jCHF",
+                "LP Token Address": "0x7F89eAB6D2fD3f397552E48f1B02882191e866D2",
+                "Pool Votes": 7207164480,
+                "Share": 0.015763579256685305
+            },
+            {
+                "Pool Name": "epsUSDT-dEPX",
+                "LP Token Address": "0xD0B25bD298dADfB36D84C9a2F4E966D1e7358e4a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3STABLE",
+                "LP Token Address": "0x318AA2a0cb415675B991ec4A9484315dfa6B3886",
+                "Pool Votes": 201271250805,
+                "Share": 0.4402224096537899
+            },
+            {
+                "Pool Name": "epsUSDT-DDD",
+                "LP Token Address": "0x8dcCcd09efa3c29aEbf8334d48806Aefe887ECaC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-USDC-jCHF-120-vLP",
+                "LP Token Address": "0x60162AffA25Bcb3FFF55101ecE55553719341b65",
+                "Pool Votes": 7207164480,
+                "Share": 0.015763579256685305
+            },
+            {
+                "Pool Name": "epsUSDT-PAYX",
+                "LP Token Address": "0x8df7458690e7057Cf91F9bBEc8EE07C52A445d7d",
+                "Pool Votes": 167236294272,
+                "Share": 0.365780826380005
+            },
+            {
+                "Pool Name": "eAUD-USBT",
+                "LP Token Address": "0xCc548d0242c461D112e0733C389ba741EF523522",
+                "Pool Votes": 0,
+                "Share": 0.0
+            }
+        ]
+    },
+    {
+        "Week": 129,
+        "Start Epoch Date GMT": "2024-09-26 00:00:00",
+        "End Epoch Date GMT": "2024-10-02 23:59:59",
+        "Total Votes": 458629556447,
+        "Pools Data": [
+            {
+                "Pool Name": "3EPS",
+                "LP Token Address": "0xaF4dE8E872131AE328Ce21D909C74705d3Aaf452",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "val3EPS",
+                "LP Token Address": "0x5b5bD8913D766D005859CE002533D4838B0Ebbb5",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aBNBb",
+                "LP Token Address": "0xf71A0bCC3Ef8a8c5a28fc1BC245e394A8ce124ec",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aETHb",
+                "LP Token Address": "0x3e33ec615eB41148785653c119835Bd224Fd2d1B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aMATICb",
+                "LP Token Address": "0x6937A9C8Af919ebf756d56E715F4c8b9F1df3184",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "UST+BUSD",
+                "LP Token Address": "0xD67625ad4104dA86c4D9CB054001E899B1b9061B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "bnbEPS",
+                "LP Token Address": "0x13fe09F5D9BDBD09D875B51ba2f1E3f4544896bC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "deusdc-3ep",
+                "LP Token Address": "0xEAaD1b47283aB31A7ae92Dc156c963584D35120D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2ngn",
+                "LP Token Address": "0x4084203AfBc9b20A3ECB9C80dc164a13C9A41eEb",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2brl",
+                "LP Token Address": "0x1B6E11c5DB9B15DE87714eA9934a6c52371CfEA9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dusd3eps",
+                "LP Token Address": "0xd6e049b3e8E19deC54834046e48C15AF9374467a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdnv3EPS",
+                "LP Token Address": "0x82c8ce39d0fF337C6867Cdf26609a1728f9f1B58",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdlv3EPS",
+                "LP Token Address": "0x5dF71B9CB8EA13Dec57b63EA558B135aE06ac859",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valdaiEPS",
+                "LP Token Address": "0x8087a94FFE6bcF08DC4b4EBB3d28B4Ed75a792aC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valbtcEPS",
+                "LP Token Address": "0xdC7f3E34C43f8700B0EB58890aDd03AA84F7B0e1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "ausd/v3EPS",
+                "LP Token Address": "0x5eE318b2AD8B45675Dc169C68A273CAf8fb26ee0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "czusdv3EPS",
+                "LP Token Address": "0x4A96801f76DdfC182290105AeEb3E4719ff9A380",
+                "Pool Votes": 6326834816,
+                "Share": 0.013795087401287317
+            },
+            {
+                "Pool Name": "nBUSDv3EPS",
+                "LP Token Address": "0x5A81b0C7a43a5A39031A9926483A055F6355fEdf",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthv3EPS",
+                "LP Token Address": "0x4CfAaBd5920021359BB22bB6924CCe708773b6AC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valtusdEPS",
+                "LP Token Address": "0xF6be0F52Be5e68DF4Ed3ea7cCD569C16024C250D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dEPX/EPX",
+                "LP Token Address": "0xb6b218352d082fa5C981B5adF61CBC068046f926",
+                "Pool Votes": 25306378672,
+                "Share": 0.05517825512173341
+            },
+            {
+                "Pool Name": "mai eps",
+                "LP Token Address": "0x80D00D2c8d920a9253c3D65BA901250a55011b37",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdd/3eps",
+                "LP Token Address": "0xB7d9b83c7Dc3C7Fab2d0159f8b3fA7C4fB081741",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "tusd3eps",
+                "LP Token Address": "0xe9957dC7Ff1ca823A358ca16Fb5b66e853D46fA3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2epx",
+                "LP Token Address": "0xB343F4cDE5e2049857898E800CD385247e21836D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthu3eps",
+                "LP Token Address": "0xC5C71ACCCa3A1357985E8912e1ED0aa910C30BdC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "",
+                "LP Token Address": "0x73A7A74627f5A4fcD6d7EEF8E023865C4a84CfE8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BNB",
+                "LP Token Address": "0x597F4583f45e2cBd571C6D18D7c4428885184738",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsEPX-BNB",
+                "LP Token Address": "0xd30E73F326D07bA3198D1A811519720f45b2D36D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsDEPX-BUSD",
+                "LP Token Address": "0x930891020402469d7bd32dF3401fdeD3B893ceF0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-DDD",
+                "LP Token Address": "0x2de6F61139cb8e429a165C9a0090F46f0b02E241",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BNBx+BNB",
+                "LP Token Address": "0x2E9a994C9a2F661AE685e8d08662dF00f862f4da",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsVALAS-BNB",
+                "LP Token Address": "0x6B46dFaC1E46f059cea6C0a2D7642d58e8BE71F8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3brl",
+                "LP Token Address": "0x27b5Fc5333246F63280dA8e3e533512EfA747c13",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-ARTH.bsc",
+                "LP Token Address": "0x4fc50CfA410F9d93739C65B0e0CF37E55283Eea9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBNBx-BNB",
+                "LP Token Address": "0x5c73804FeDd39f3388E03F4aa1fE06a1C0e60c8e",
+                "Pool Votes": 81188157664,
+                "Share": 0.17702338744359195
+            },
+            {
+                "Pool Name": "epsBUSD-jCHF",
+                "LP Token Address": "0x5887cEa5e2bb7dD36F0C06Da47A8Df918c289A29",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJRT-BNB",
+                "LP Token Address": "0x8D3d5eA9064C93432bf85e185077983A10BbAa8f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsETH-BNB",
+                "LP Token Address": "0xC35796CAe6df06F41361bcDab08F231d5Ca86d30",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BTCB",
+                "LP Token Address": "0x293602dADde49b55F558F4440061da9e8D3dce0F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-jBRL",
+                "LP Token Address": "0x85500e5621E82f84F33E0A28bc95FE78CEB9a200",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-EPX",
+                "LP Token Address": "0x849A16dA1c10B78F4f55340171b242ff759012C3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "paxosBUSD",
+                "LP Token Address": "0xc27e4288dDf51B7Eb1081aec27930226Efe1eA72",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsankrBNB-BNB",
+                "LP Token Address": "0x53B07f1075cAbF87dC1329e44872F8fd8d7d84C9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-INR",
+                "LP Token Address": "0x7E6098AA1Fa5cd4b7429cef412D33258F777a0A8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsAUDT-BNB",
+                "LP Token Address": "0xd51b929bEf5A07f3430eE0Fd66d3283D20C4a1E4",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-SD",
+                "LP Token Address": "0x299E6Eef3B902F44D17834CDc407c2e4Bc1Fb002",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BNBx",
+                "LP Token Address": "0xeF44Cc0ac230a926700e0e927e9Ee9aC0051C2eA",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-CRV",
+                "LP Token Address": "0xBA4f12a96688C86a972911681911A9e403952f70",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BANANA",
+                "LP Token Address": "0x1B764EB0A1eA5CA62DD70deFa7548A2EbC56cBf1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BIFI",
+                "LP Token Address": "0x3C29929b286155d521E82525866a067B4102d67f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BUSD-FEED",
+                "LP Token Address": "0x67E6b66EbCDB33380ba46D0B88d6dD3a3693FABd",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJARVIS-ETH",
+                "LP Token Address": "0xf5852A0DEDbaEc3384102bfCDeab014aBd19836c",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsDDD-ETH",
+                "LP Token Address": "0x867a110561284507783184bb93Fec2A84eD1d62F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsPSG-ETH",
+                "LP Token Address": "0x8E259c89C8BA58654DeFa7ff032ac2AE18D0941E",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-jCHF",
+                "LP Token Address": "0x7F89eAB6D2fD3f397552E48f1B02882191e866D2",
+                "Pool Votes": 6606567424,
+                "Share": 0.01440501888971359
+            },
+            {
+                "Pool Name": "epsUSDT-dEPX",
+                "LP Token Address": "0xD0B25bD298dADfB36D84C9a2F4E966D1e7358e4a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3STABLE",
+                "LP Token Address": "0x318AA2a0cb415675B991ec4A9484315dfa6B3886",
+                "Pool Votes": 181493200207,
+                "Share": 0.3957294022064922
+            },
+            {
+                "Pool Name": "epsUSDT-DDD",
+                "LP Token Address": "0x8dcCcd09efa3c29aEbf8334d48806Aefe887ECaC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-USDC-jCHF-120-vLP",
+                "LP Token Address": "0x60162AffA25Bcb3FFF55101ecE55553719341b65",
+                "Pool Votes": 6606567456,
+                "Share": 0.014405018959486676
+            },
+            {
+                "Pool Name": "epsUSDT-PAYX",
+                "LP Token Address": "0x8df7458690e7057Cf91F9bBEc8EE07C52A445d7d",
+                "Pool Votes": 151101850208,
+                "Share": 0.3294638299776948
+            },
+            {
+                "Pool Name": "eAUD-USBT",
+                "LP Token Address": "0xCc548d0242c461D112e0733C389ba741EF523522",
+                "Pool Votes": 0,
+                "Share": 0.0
+            }
+        ]
+    },
+    {
+        "Week": 130,
+        "Start Epoch Date GMT": "2024-10-03 00:00:00",
+        "End Epoch Date GMT": "2024-10-09 23:59:59",
+        "Total Votes": 462042445392,
+        "Pools Data": [
+            {
+                "Pool Name": "3EPS",
+                "LP Token Address": "0xaF4dE8E872131AE328Ce21D909C74705d3Aaf452",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "val3EPS",
+                "LP Token Address": "0x5b5bD8913D766D005859CE002533D4838B0Ebbb5",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aBNBb",
+                "LP Token Address": "0xf71A0bCC3Ef8a8c5a28fc1BC245e394A8ce124ec",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aETHb",
+                "LP Token Address": "0x3e33ec615eB41148785653c119835Bd224Fd2d1B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "aMATICb",
+                "LP Token Address": "0x6937A9C8Af919ebf756d56E715F4c8b9F1df3184",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "UST+BUSD",
+                "LP Token Address": "0xD67625ad4104dA86c4D9CB054001E899B1b9061B",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "bnbEPS",
+                "LP Token Address": "0x13fe09F5D9BDBD09D875B51ba2f1E3f4544896bC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "deusdc-3ep",
+                "LP Token Address": "0xEAaD1b47283aB31A7ae92Dc156c963584D35120D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2ngn",
+                "LP Token Address": "0x4084203AfBc9b20A3ECB9C80dc164a13C9A41eEb",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2brl",
+                "LP Token Address": "0x1B6E11c5DB9B15DE87714eA9934a6c52371CfEA9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dusd3eps",
+                "LP Token Address": "0xd6e049b3e8E19deC54834046e48C15AF9374467a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdnv3EPS",
+                "LP Token Address": "0x82c8ce39d0fF337C6867Cdf26609a1728f9f1B58",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdlv3EPS",
+                "LP Token Address": "0x5dF71B9CB8EA13Dec57b63EA558B135aE06ac859",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valdaiEPS",
+                "LP Token Address": "0x8087a94FFE6bcF08DC4b4EBB3d28B4Ed75a792aC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valbtcEPS",
+                "LP Token Address": "0xdC7f3E34C43f8700B0EB58890aDd03AA84F7B0e1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "ausd/v3EPS",
+                "LP Token Address": "0x5eE318b2AD8B45675Dc169C68A273CAf8fb26ee0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "czusdv3EPS",
+                "LP Token Address": "0x4A96801f76DdfC182290105AeEb3E4719ff9A380",
+                "Pool Votes": 6326834816,
+                "Share": 0.013693189617313773
+            },
+            {
+                "Pool Name": "nBUSDv3EPS",
+                "LP Token Address": "0x5A81b0C7a43a5A39031A9926483A055F6355fEdf",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthv3EPS",
+                "LP Token Address": "0x4CfAaBd5920021359BB22bB6924CCe708773b6AC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "valtusdEPS",
+                "LP Token Address": "0xF6be0F52Be5e68DF4Ed3ea7cCD569C16024C250D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "dEPX/EPX",
+                "LP Token Address": "0xb6b218352d082fa5C981B5adF61CBC068046f926",
+                "Pool Votes": 27096482608,
+                "Share": 0.058645007354272735
+            },
+            {
+                "Pool Name": "mai eps",
+                "LP Token Address": "0x80D00D2c8d920a9253c3D65BA901250a55011b37",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "usdd/3eps",
+                "LP Token Address": "0xB7d9b83c7Dc3C7Fab2d0159f8b3fA7C4fB081741",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "tusd3eps",
+                "LP Token Address": "0xe9957dC7Ff1ca823A358ca16Fb5b66e853D46fA3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "2epx",
+                "LP Token Address": "0xB343F4cDE5e2049857898E800CD385247e21836D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "arthu3eps",
+                "LP Token Address": "0xC5C71ACCCa3A1357985E8912e1ED0aa910C30BdC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "",
+                "LP Token Address": "0x73A7A74627f5A4fcD6d7EEF8E023865C4a84CfE8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BNB",
+                "LP Token Address": "0x597F4583f45e2cBd571C6D18D7c4428885184738",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsEPX-BNB",
+                "LP Token Address": "0xd30E73F326D07bA3198D1A811519720f45b2D36D",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsDEPX-BUSD",
+                "LP Token Address": "0x930891020402469d7bd32dF3401fdeD3B893ceF0",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-DDD",
+                "LP Token Address": "0x2de6F61139cb8e429a165C9a0090F46f0b02E241",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BNBx+BNB",
+                "LP Token Address": "0x2E9a994C9a2F661AE685e8d08662dF00f862f4da",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsVALAS-BNB",
+                "LP Token Address": "0x6B46dFaC1E46f059cea6C0a2D7642d58e8BE71F8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3brl",
+                "LP Token Address": "0x27b5Fc5333246F63280dA8e3e533512EfA747c13",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-ARTH.bsc",
+                "LP Token Address": "0x4fc50CfA410F9d93739C65B0e0CF37E55283Eea9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBNBx-BNB",
+                "LP Token Address": "0x5c73804FeDd39f3388E03F4aa1fE06a1C0e60c8e",
+                "Pool Votes": 84201978976,
+                "Share": 0.18223862291388068
+            },
+            {
+                "Pool Name": "epsBUSD-jCHF",
+                "LP Token Address": "0x5887cEa5e2bb7dD36F0C06Da47A8Df918c289A29",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJRT-BNB",
+                "LP Token Address": "0x8D3d5eA9064C93432bf85e185077983A10BbAa8f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsETH-BNB",
+                "LP Token Address": "0xC35796CAe6df06F41361bcDab08F231d5Ca86d30",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BTCB",
+                "LP Token Address": "0x293602dADde49b55F558F4440061da9e8D3dce0F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-jBRL",
+                "LP Token Address": "0x85500e5621E82f84F33E0A28bc95FE78CEB9a200",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-EPX",
+                "LP Token Address": "0x849A16dA1c10B78F4f55340171b242ff759012C3",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "paxosBUSD",
+                "LP Token Address": "0xc27e4288dDf51B7Eb1081aec27930226Efe1eA72",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsankrBNB-BNB",
+                "LP Token Address": "0x53B07f1075cAbF87dC1329e44872F8fd8d7d84C9",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-INR",
+                "LP Token Address": "0x7E6098AA1Fa5cd4b7429cef412D33258F777a0A8",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsAUDT-BNB",
+                "LP Token Address": "0xd51b929bEf5A07f3430eE0Fd66d3283D20C4a1E4",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-SD",
+                "LP Token Address": "0x299E6Eef3B902F44D17834CDc407c2e4Bc1Fb002",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BNBx",
+                "LP Token Address": "0xeF44Cc0ac230a926700e0e927e9Ee9aC0051C2eA",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-CRV",
+                "LP Token Address": "0xBA4f12a96688C86a972911681911A9e403952f70",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsBUSD-BANANA",
+                "LP Token Address": "0x1B764EB0A1eA5CA62DD70deFa7548A2EbC56cBf1",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDT-BIFI",
+                "LP Token Address": "0x3C29929b286155d521E82525866a067B4102d67f",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "BUSD-FEED",
+                "LP Token Address": "0x67E6b66EbCDB33380ba46D0B88d6dD3a3693FABd",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsJARVIS-ETH",
+                "LP Token Address": "0xf5852A0DEDbaEc3384102bfCDeab014aBd19836c",
+                "Pool Votes": 454530688,
+                "Share": 0.0009837422785137695
+            },
+            {
+                "Pool Name": "epsDDD-ETH",
+                "LP Token Address": "0x867a110561284507783184bb93Fec2A84eD1d62F",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsPSG-ETH",
+                "LP Token Address": "0x8E259c89C8BA58654DeFa7ff032ac2AE18D0941E",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-jCHF",
+                "LP Token Address": "0x7F89eAB6D2fD3f397552E48f1B02882191e866D2",
+                "Pool Votes": 6005970400,
+                "Share": 0.01299874169548318
+            },
+            {
+                "Pool Name": "epsUSDT-dEPX",
+                "LP Token Address": "0xD0B25bD298dADfB36D84C9a2F4E966D1e7358e4a",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "3STABLE",
+                "LP Token Address": "0x318AA2a0cb415675B991ec4A9484315dfa6B3886",
+                "Pool Votes": 297569840384,
+                "Share": 0.6440313944134282
+            },
+            {
+                "Pool Name": "epsUSDT-DDD",
+                "LP Token Address": "0x8dcCcd09efa3c29aEbf8334d48806Aefe887ECaC",
+                "Pool Votes": 0,
+                "Share": 0.0
+            },
+            {
+                "Pool Name": "epsUSDC-USDC-jCHF-120-vLP",
+                "LP Token Address": "0x60162AffA25Bcb3FFF55101ecE55553719341b65",
+                "Pool Votes": 6005970400,
+                "Share": 0.01299874169548318
+            },
+            {
+                "Pool Name": "epsUSDT-PAYX",
+                "LP Token Address": "0x8df7458690e7057Cf91F9bBEc8EE07C52A445d7d",
+                "Pool Votes": 34380837120,
+                "Share": 0.0744105600316245
+            },
+            {
+                "Pool Name": "eAUD-USBT",
+                "LP Token Address": "0xCc548d0242c461D112e0733C389ba741EF523522",
+                "Pool Votes": 0,
+                "Share": 0.0
+            }
+        ]
+    }
+]
